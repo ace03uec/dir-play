@@ -8,4 +8,7 @@ Requires it to belong to a whitelist.
 # Installation instructions
 Requires python3 and bottle
 
-
+# TODO
+- Choose command from whitelisted commands
+- Choose path from whitelisted paths
+- Add functionality to play, make a playlist
